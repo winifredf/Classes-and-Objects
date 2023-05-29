@@ -1,6 +1,6 @@
 class Student:
     
-    def__init__(self, name, major, gpa, is_on_probation):
+    def __init__(self, name, major, gpa, is_on_probation):
         self.name = name
         self.major = major
         self.gpa = gpa
